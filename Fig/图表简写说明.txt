@@ -1,0 +1,11 @@
+1.OD   Oscillator displacement   振子位移
+2.OS   Oscillator speed               振子速度
+3.FD   Float displacement            浮子位移
+4.FS   Float speed                        浮子速度
+5.OFDD  Oscillator float displacement difference  振子浮子位移差
+6.RDO   Relative displacement of oscillator   振子相对位移
+7.ADO   Angular displacement of oscillator   振子角位移
+8.AVO   Angular velocity of oscillator   振子角速度
+9.FAD   Float angular displacement   浮子角位移
+10.FAV   Float angular velocity   浮子角速度
+11.DADOF    Difference in angular displacement of oscillator float   振子浮子角位移差
