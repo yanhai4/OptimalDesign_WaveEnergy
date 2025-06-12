@@ -1,6 +1,6 @@
 # Optimal design of Wave energy
 
-这是论文 ：Optimal Design of Wave Energy Output Power Based on Rigid Differential Equations 的源代码，包括了代码数据和图表。
+这是论文 ：Optimal Design of Wave Energy Output Power Based on Rigid Differential Equations 的源代码，包含了代码数据和图表。
 
 我是这篇文章的共一作者。
 
